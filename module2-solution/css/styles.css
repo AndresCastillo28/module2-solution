@@ -20,8 +20,8 @@ h2{
   background-color: aqua;
   padding: 5px 35px;
   margin-bottom: 10px;
-  border-left: 3px solid black;
-  border-bottom: 2px solid black;
+  border-left: 1px solid black;
+  border-bottom: 1px solid black;
 }
 .chicken{
   background-color: #d59898;
@@ -43,7 +43,7 @@ p {
 div div {
     margin: 10px;
     background-color: #999999;
-    border: 3px solid black;
+    border: 1px solid black;
   }
 
 @media (min-width: 992px)  {
